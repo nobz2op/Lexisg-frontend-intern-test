@@ -95,11 +95,12 @@ PDF hosted externally (SharePoint)
 📤 Submission Info
 You can now submit:
 
-🔗 GitHub Repo: https://github.com/nobz2op/Lexisg-frontend-intern-test
+🔗 GitHub Repo: (https://github.com/nobz2op/Lexisg-frontend-intern-test)
 
-🖼️ Screenshot: screenshot.png inside this repo
+🖼️ Screenshot: ![Lexi App Screenshot](./screenshot.png)
 
-✅ (Bonus) Hosted on Vercel: [link if deployed]
+
+✅ (Bonus) Hosted on Vercel: [https://lexisg-frontend-intern-test-vert.vercel.app/]
 
 📧 Send to: 
 
